@@ -1,4 +1,4 @@
 def main():
-    print("Hello Ari!")
+    print("Hello Ari Bellman and Ari Messinger!")
 
 main()
